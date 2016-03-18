@@ -1,2 +1,3 @@
-# webconfigtohtaccess
-Convert Webconfig rewrite rules to htaccess file
+# web.config to .htaccess
+Convert Web.config rewrite rules to .htaccess file
+still trying!
